@@ -7,4 +7,4 @@ if (repeat === 5){
   console.log(chorus);
   repeat++;
 }
-console.log("Until the sun comes down");
+console.log("Until the sun comes up");
